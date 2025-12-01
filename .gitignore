@@ -1,0 +1,55 @@
+# ─────────────────────────────
+# ENTORNO VIRTUAL
+# ─────────────────────────────
+venv/
+.env
+*.env
+
+# ─────────────────────────────
+# ARCHIVOS PYTHON
+# ─────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ─────────────────────────────
+# DJANGO
+# ─────────────────────────────
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Evitar subir migraciones compiladas
+**/migrations/__pycache__/
+
+# ─────────────────────────────
+# VS CODE / EDITORES
+# ─────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ─────────────────────────────
+# SISTEMA OPERATIVO
+# ─────────────────────────────
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# ─────────────────────────────
+# ARCHIVOS TEMPORALES
+# ─────────────────────────────
+*.tmp
+*.temp
+*.bak
+
+# ─────────────────────────────
+# OTROS
+# ─────────────────────────────
+# Reportes
+coverage/
+htmlcov/
