@@ -25,6 +25,7 @@ Si querés ponerte en contacto conmigo, podés hacerlo por:
 - 💼 LinkedIn: *[tu perfil]*  
 - 🌐 Portafolio: *[tu link]*
 
+
+Oficializar la version **1.0.0**
 ---
 
-¡Si querés una versión más profesional, minimalista o adaptada a un proyecto en particular, te la hago!*
