@@ -1,0 +1,23 @@
+commit 94a4e4a926e656387ead19bad20fc8ba4b6466a7
+Author: porongusario <counterjosefoo@gmail.com>
+Date:   Mon Dec 1 20:01:13 2025 -0300
+
+    Re-agregando contact.html
+
+commit 61b169db9af5f7120bc0f50508243126bd90b26a
+Author: porongusario <counterjosefoo@gmail.com>
+Date:   Mon Dec 1 19:24:54 2025 -0300
+
+    Agregando about.html
+
+commit 3c695655dce675830a74133594008bbc6b657d38
+Author: porongusario <counterjosefoo@gmail.com>
+Date:   Mon Dec 1 19:08:03 2025 -0300
+
+    Agrego templates y rutas index/inicio
+
+commit 3b9dfbc59ee3b64e4c59e933a725e5617b22fc9c
+Author: porongusario <counterjosefoo@gmail.com>
+Date:   Mon Dec 1 18:40:41 2025 -0300
+
+    mensaje descriptivo del cambio
